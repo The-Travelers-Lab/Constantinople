@@ -1,6 +1,0 @@
-This folder contains the code as well as files for the cleaning and preperation of Dumbarton oaks seals data. 
-The cleaning took place in two files, named sealscleaning01 and sealscleaning02 respectively, the first being an R file and the second being an .ipynb jupyter notebook. 
-The numbered data files are all the data used in the data processing files. Sealsdata10 was the final file used for the nodegoat import. I have kept the names as they appear in the processing files. 
-The files are documented but not to a very high level. Please reach out with any questions or concerns.  
-This was written by Alex Williams for a summer 2024 QAC Research Apprenticeship
-Email: apwilliams@wesleyan.edu
